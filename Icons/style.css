@@ -1,0 +1,7 @@
+
+  h1 {color:rgb(212, 79, 21)}
+  .header{
+    background-color: rgb(114, 246, 239);
+    display:flex;
+    justify-content: space-between;
+  }
